@@ -1,5 +1,5 @@
 # todo-GOswagger-service
-This is a todo service implemented using GO-Swagger OpenAPI specification.
+This is a todo service implemented using GO-Swagger OpenAPI specification. This is inspired by the example in go-swagger documentation.
 
 **Installation**
 1- Clone the repository.
